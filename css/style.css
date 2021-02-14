@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  width: 300px;
+  flex-wrap: wrap;
+  flex-direction: flex-end;
+  justify-content: flex-end;
+}
+
+.green {
+  width: 150px;
+  height: 150px;
+  background-color: #51d400;
+}
+
+.yellow {
+  width: 150px;
+  height: 150px;
+  background-color: #ffd62a;
+}
+
+.purple {
+  width: 150px;
+  height: 150px;
+  background-color: #b02afe;
+}
